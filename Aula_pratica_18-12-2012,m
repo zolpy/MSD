@@ -1,0 +1,24 @@
+%diamentro das engrenagens
+z1=0.025;
+z2=0.075;
+z3=0.025;
+z4=0.010;
+z5=0.050;
+z6=0.150;
+%diamentro do motor e do redutor
+d1=0.001;
+d2=0.050;
+%diametro do tampo de acionamento
+d3=0.300;
+%diametro do cabo
+d4=0.005;
+T=1000*0,010;
+n=746;
+%formula 
+P=((2*pi*n*T)/(60.75));
+%P[cv]watt(w)=Nm/s
+%T[N.m] 1cv = 736W
+%HP=746W
+%n[rpm]
+
+
